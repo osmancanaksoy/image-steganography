@@ -1,1 +1,1 @@
-Image Steganograpghy with Python
+Image Steganography with Python
